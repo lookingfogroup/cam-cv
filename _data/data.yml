@@ -57,7 +57,7 @@ experiences:
         time: 2022 - 2024
         company: g2i - BC Game, Remote
         details: |
-          Remote whitelabel contract that involved a lot of PHP (Laravel) for a backend admin dashboard, Tailwind and React were used heavily as well. Was expected to handle any ticket from queues to blade templates. Began using Redis and EloquentORM quite a bit. Pest for TDD. Spent the most time writing and testing controllers and events.
+          Remote whitelabel contract that involved a lot of PHP (Laravel) for a backend admin dashboard, Tailwind and React were used heavily as well. Was expected to handle any ticket from queues to blade templates. Redis cache. Pest for TDD. Spent the most time writing and testing controllers and events.
 
       - role: Full Stack Developer
         time: 2020 - 2022
