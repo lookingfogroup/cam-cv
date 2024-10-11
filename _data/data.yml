@@ -103,11 +103,17 @@ skills:
       - name: React & Vue
         level: 95%
 
+      - name: MVC
+        level: 90%
+
       - name: Tailwind
         level: 85%
 
       - name: Bash
         level: 85%
+
+      - name: Linux
+        level: 75%
 
       - name: Python
         level: 60%
