@@ -66,7 +66,7 @@ experiences:
           A part of the Google IO team responsible for ensuring the Google IO conference site was something to behold each year. Both frontend and backend duties mostly pertaining to tailwind, jinja templates and preact. Responsible for multiple live pages and their logic. The stack at the time was a headless preact setup leveraging jinja + python. Utilized Google's in house git system Garrit, worked a lot with the translator and did multiple entire pages myself.
  
       - role: Sotware Developer, Co-founder
-        time: 2012 - 2014
+        time: 2019 - 2020
         company: Distributron, Remote
         details: |
           A friend and I founded an alcohol distribution and delivery eComm app that we attempted to get into YCombinator. We did make it to an interview (which was a feat in itself), however, we failed to make the actual cut. JAMstack was used; my focus being the Vue, CSS, HTML and geofencing. Some fraud heuristics as well. If nothing else it was a great way to learn how to be self supporting and auto-didactic. Plus we were the first company in PA that was legally granted the liquor delivery license which was neat as we did succeed in making real deliveries.
